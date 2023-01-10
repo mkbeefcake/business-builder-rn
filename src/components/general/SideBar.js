@@ -382,7 +382,7 @@ class SideBar extends Component {
                                 : appConfig.drawerBackgroundColor,
                         paddingBottom: 20,
                     }}>
-                    {appConfig.whitelabel && this.state.shouldUpdateLogo ? (
+                    {/* {appConfig.whitelabel && this.state.shouldUpdateLogo ? (
                         <Image
                             source={{ uri: this.state.logo }}
                             style={{
@@ -400,7 +400,7 @@ class SideBar extends Component {
                                 resizeMode: 'contain',
                             }}
                         />
-                    )}
+                    )} */}
                 </View>
                 <ScrollView>
                     <View

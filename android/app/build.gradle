@@ -145,8 +145,8 @@ android {
 //         applicationId "com.millennialbusinessbuilders.businesscreditbuilders"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 52
-        versionName "1.7.9"
+        versionCode 54
+        versionName "1.7.11"
     }
     splits {
         abi {

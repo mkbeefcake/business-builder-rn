@@ -59,3 +59,4 @@ android/app/release/
 
 # CocoaPods
 /ios/Pods/
+*.hprof

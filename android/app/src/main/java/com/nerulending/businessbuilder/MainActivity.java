@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "dinero_mobile_rn";
+    return "business_builder_rn";
   }
 }
