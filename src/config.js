@@ -22,7 +22,7 @@ const appConfig = {
 
     // com.millennialbusiness.kleui
     appName: 'Business Builder App',
-    whitelabel: false,
+    whitelabel: true,
     webinarLink: 'https://www.youtube.com/watch?v=61P3fl9GEiw',
     appWebsite: 'https://www.lendingwithneru.com',
     appLogo: require('./assets/dinero/blue.png'),
