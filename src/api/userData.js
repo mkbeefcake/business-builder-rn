@@ -69,6 +69,7 @@ export const getWhiteLabelLogo = async () => {
         '/wt/getuserlogo/',
         authentication,
     );
+    console.log(`getWhiteLabelLogo: ${JSON.stringify(response)}`)
     return response.data;
 };
 
